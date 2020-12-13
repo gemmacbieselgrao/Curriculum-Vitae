@@ -1,0 +1,71 @@
+.curriculum{
+    text-align: center;
+    font-size: 40px;
+    font-family: arial;
+    color: #333333;
+}
+div{
+    background-color:#D3DBDE ;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 14px;
+    text-align: justify;
+    
+}
+.todo1{
+    color: lightseagreen;
+}
+.todo{
+    color: lightseagreen;
+}
+.ins{
+    color: lightseagreen;
+}
+   .vicen{
+       color: lightseagreen;
+   }
+.ejemplo{
+
+    background-color: #B6C2C9;
+}
+.datos{
+ color: darkslategray;
+    text-decoration: underline;
+    background-color: #7B929D;
+    font-size: 30px;
+}
+.nombre{
+background-color: #B6C2C9 ;
+
+}
+.educacion{
+    color: darkslategray;
+    text-decoration: underline;
+    background-color:#7B929D ;
+    font-size: 30px;
+}
+.años{
+    background-color:#B6C2C9  ;
+}
+.capacidades{
+color: darkslategray;
+    text-decoration: underline;
+    background-color:#7B929D;
+    font-size: 30px;
+}
+.idiomas{
+    color: darkslategray;
+    background-color:#B6C2C9 ;
+    
+}
+.ingles{
+    background-color: #B6C2C9;
+}
+.autor{
+    background-color: white;
+    text-align: right;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.fin{
+    background-color: white;
+    text-align: center;
+}
